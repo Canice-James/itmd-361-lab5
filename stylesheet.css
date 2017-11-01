@@ -1,9 +1,27 @@
 body {
   text-align: center;
+  background: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-40.jpg);
+  background-size: contain;
 }
 
 header {
   text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+  padding: 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#page-title {
+  background: #eb7a7a;
+  padding: 10px 17px;
+  border-radius: 15px;
+  border-style: groove;
+  border-color: #eb7a7a;
 }
 
 table {
@@ -38,4 +56,5 @@ td {
   border-color: #090000;
   color: #000000;
   background-color: #fce4e4;
+  border-style: dashed;
 }
