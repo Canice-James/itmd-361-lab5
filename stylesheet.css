@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-40.jpg);
-  background-size: contain;
+  background-size: contain; 
 }
 
 header {
@@ -9,11 +9,13 @@ header {
 }
 
 header h1 {
-  font-size: 2em;
+  font-size: 2.2em;
   margin: 0.67em 0;
   padding: 15px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  
 }
 
 #page-title {
@@ -32,7 +34,7 @@ table {
 
 th {
   font-family: Arial, sans-serif;
-  font-size: 17px;
+  font-size: 1.4em;
   font-weight: bold;
   padding: 10px 50px;
   border-style: solid;
@@ -46,7 +48,7 @@ th {
 
 td {
   font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-size: 1.2em;
   font-weight: normal;
   padding: 10px 50px;
   border-style: solid;
@@ -57,4 +59,5 @@ td {
   color: #000000;
   background-color: #fce4e4;
   border-style: dashed;
+  font-family: 'Dosis', sans-serif;
 }
