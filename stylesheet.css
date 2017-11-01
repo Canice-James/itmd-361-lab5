@@ -57,7 +57,7 @@ td {
   word-break: normal;
   border-color: #090000;
   color: #000000;
-  background-color: #fce4e4;
+  background: linear-gradient(90deg, rgb(245, 165, 165), rgb(255, 233, 233) 50%);
   border-style: dashed;
   font-family: 'Dosis', sans-serif;
 }
