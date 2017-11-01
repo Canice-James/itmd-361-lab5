@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: url(https://newevolutiondesigns.com/images/freebies/galaxy-wallpaper-40.jpg);
+  background: url(images/galaxy-bg.jpg);
   background-size: contain; 
 }
 
@@ -60,4 +60,9 @@ td {
   background-color: #fce4e4;
   border-style: dashed;
   font-family: 'Dosis', sans-serif;
+}
+
+footer p {
+  background: #fca9a9;
+  padding: 10px 8px;
 }

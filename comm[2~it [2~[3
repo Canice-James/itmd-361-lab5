@@ -1,0 +1,53 @@
+[33mcommit 593dd2b3c5080cfc8fd486f90510bfbdb726cffa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Wed Nov 1 16:51:36 2017 -0400
+
+    Added galaxy background image
+
+[33mcommit 5f175f99ecc61c211d3cca03436da38233a6d72a[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Wed Nov 1 16:49:04 2017 -0400
+
+    Added Google fonts and ajusted font-sizes
+
+[33mcommit 18e37218f019568bf8975661da88d4bbe7ad2096[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Wed Nov 1 15:28:12 2017 -0400
+
+    Added images of planets to /images
+
+[33mcommit 4dd8d4b1685228525fc7ef677c953adc0f275d44[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Wed Nov 1 14:34:10 2017 -0400
+
+    Added images of planets to /images
+
+[33mcommit 1e68ab704e0a22c7f707845e1816f184c4ee2a65[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Wed Nov 1 14:21:00 2017 -0400
+
+    Created, styled and filled table with data
+
+[33mcommit a93b26f35531fa2dbf8c1bdba412b99635e459b4[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Tue Oct 31 11:01:48 2017 -0400
+
+    Created reset.css and stylesheet.css and linked index.html to them
+
+[33mcommit db2301705b89499e10cf344316e69286333d96e9[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Tue Oct 31 10:58:58 2017 -0400
+
+    Added base html structure in index.html
+
+[33mcommit fe2edf63f7a81a54800b3228c11bf279c21941f2[m
+Author: Canice James <canicejamesanu@gmail.com>
+Date:   Tue Oct 31 10:56:09 2017 -0400
+
+    Created index.html
+
+[33mcommit e7cefd2f92404456e1d6926edb60b5c432828e80[m
+Author: Ecanic <canicejamesanu@gmail.com>
+Date:   Tue Oct 31 10:57:06 2017 -0400
+
+    Initial commit
