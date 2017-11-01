@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+
+th {
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px 50px;
+  border-style: solid;
+  border-width: 1.5px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #090000;
+  color: #000000;
+  background-color: #eb7a7a;
+}
+
+td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 10px 50px;
+  border-style: solid;
+  border-width: 1.5px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: #090000;
+  color: #000000;
+  background-color: #fce4e4;
+}
