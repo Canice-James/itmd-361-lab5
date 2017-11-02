@@ -8,6 +8,8 @@ header {
   text-align: center;
 }
 
+he
+
 header h1 {
   font-size: 2.2em;
   margin: 0.67em 0;
@@ -19,7 +21,7 @@ header h1 {
 }
 
 #page-title {
-  background: #eb7a7a;
+  background: url(images/pattern.png);
   padding: 10px 17px;
   border-radius: 15px;
   border-style: groove;
@@ -43,7 +45,7 @@ th {
   word-break: normal;
   border-color: #090000;
   color: #000000;
-  background-color: #eb7a7a;
+  background: linear-gradient(0deg, rgb(248, 110, 110), rgb(243, 133, 133) 50%);
 }
 
 td {
@@ -63,6 +65,6 @@ td {
 }
 
 footer p {
-  background: #fca9a9;
+  background: url(images/pattern.png);
   padding: 10px 8px;
 }
